@@ -7,7 +7,7 @@ import pandas as pd
 data = {
     "Name": ["Sharif ur Rehman", "Ahmed", "Sara", "Fatima", "Usman", "Ayesha", "Hamza"],
     "Course": ["Python", "Python", "AI", "AI", "Django", "Django", "Python"],
-    "Marks": [85, 72, None, 91, 67, None, 88]
+    "Marks": [85, 72, None, 91, 44, None, 88]
 }
 
 df = pd.DataFrame(data)
