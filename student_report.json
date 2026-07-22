@@ -20,13 +20,13 @@
     {
         "Name":"Ayesha",
         "Course":"Django",
-        "Marks":80.6,
+        "Marks":76.0,
         "Result":"Pass"
     },
     {
         "Name":"Sara",
         "Course":"AI",
-        "Marks":80.6,
+        "Marks":76.0,
         "Result":"Pass"
     },
     {
@@ -39,6 +39,6 @@
         "Name":"Usman",
         "Course":"Django",
         "Marks":44.0,
-        "Result":"Pass"
+        "Result":"Fail"
     }
 ]
