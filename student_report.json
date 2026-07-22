@@ -1,0 +1,44 @@
+[
+    {
+        "Name":"Fatima",
+        "Course":"AI",
+        "Marks":91.0,
+        "Result":"Pass"
+    },
+    {
+        "Name":"Hamza",
+        "Course":"Python",
+        "Marks":88.0,
+        "Result":"Pass"
+    },
+    {
+        "Name":"Sharif ur Rehman",
+        "Course":"Python",
+        "Marks":85.0,
+        "Result":"Pass"
+    },
+    {
+        "Name":"Ayesha",
+        "Course":"Django",
+        "Marks":80.6,
+        "Result":"Pass"
+    },
+    {
+        "Name":"Sara",
+        "Course":"AI",
+        "Marks":80.6,
+        "Result":"Pass"
+    },
+    {
+        "Name":"Ahmed",
+        "Course":"Python",
+        "Marks":72.0,
+        "Result":"Pass"
+    },
+    {
+        "Name":"Usman",
+        "Course":"Django",
+        "Marks":67.0,
+        "Result":"Pass"
+    }
+]
